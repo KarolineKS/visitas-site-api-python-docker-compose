@@ -7,7 +7,7 @@ Uma API simples em Flask que conta visitantes usando PostgreSQL.
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/contador-visitantes.git
+git clone https://github.com/KarolineKS/visitas-site-api-python-docker-compose.git
 
 ```
 
